@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prostoe", "week1\Prostoe.csproj", "{BD48556A-78AB-4564-9764-AE5E00C1E0FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student", "Student\Student.csproj", "{423AABC3-D3D1-4418-870C-064A719FF310}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Rectangle\Rectangle.csproj", "{10DA6A7B-C9E8-460C-8B17-609BB0E398ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle", "Circle\Circle.csproj", "{B660A192-F93D-433F-A41F-903F9B7F4774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD48556A-78AB-4564-9764-AE5E00C1E0FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD48556A-78AB-4564-9764-AE5E00C1E0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD48556A-78AB-4564-9764-AE5E00C1E0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD48556A-78AB-4564-9764-AE5E00C1E0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{423AABC3-D3D1-4418-870C-064A719FF310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423AABC3-D3D1-4418-870C-064A719FF310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423AABC3-D3D1-4418-870C-064A719FF310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423AABC3-D3D1-4418-870C-064A719FF310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10DA6A7B-C9E8-460C-8B17-609BB0E398ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10DA6A7B-C9E8-460C-8B17-609BB0E398ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10DA6A7B-C9E8-460C-8B17-609BB0E398ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10DA6A7B-C9E8-460C-8B17-609BB0E398ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B660A192-F93D-433F-A41F-903F9B7F4774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B660A192-F93D-433F-A41F-903F9B7F4774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B660A192-F93D-433F-A41F-903F9B7F4774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B660A192-F93D-433F-A41F-903F9B7F4774}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64970A0E-01BF-4F1F-BBA4-AC2EB27E578D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\II Semestr\PP2\week1\Rectangle\bin\Debug\Rectangle.exe.config
+D:\II Semestr\PP2\week1\Rectangle\bin\Debug\Rectangle.exe
+D:\II Semestr\PP2\week1\Rectangle\bin\Debug\Rectangle.pdb
+D:\II Semestr\PP2\week1\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+D:\II Semestr\PP2\week1\Rectangle\obj\Debug\Rectangle.exe
+D:\II Semestr\PP2\week1\Rectangle\obj\Debug\Rectangle.pdb

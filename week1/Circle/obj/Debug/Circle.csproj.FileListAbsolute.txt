@@ -1,0 +1,7 @@
+D:\II Semestr\PP2\week1\Circle\bin\Debug\Circle.exe.config
+D:\II Semestr\PP2\week1\Circle\bin\Debug\Circle.exe
+D:\II Semestr\PP2\week1\Circle\bin\Debug\Circle.pdb
+D:\II Semestr\PP2\week1\Circle\obj\Debug\Circle.csprojResolveAssemblyReference.cache
+D:\II Semestr\PP2\week1\Circle\obj\Debug\Circle.csproj.CoreCompileInputs.cache
+D:\II Semestr\PP2\week1\Circle\obj\Debug\Circle.exe
+D:\II Semestr\PP2\week1\Circle\obj\Debug\Circle.pdb

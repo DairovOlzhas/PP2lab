@@ -1,0 +1,7 @@
+D:\II Semestr\PP2\week1\week1\bin\Debug\week1.exe.config
+D:\II Semestr\PP2\week1\week1\bin\Debug\week1.exe
+D:\II Semestr\PP2\week1\week1\bin\Debug\week1.pdb
+D:\II Semestr\PP2\week1\week1\obj\Debug\Prostoe.csprojResolveAssemblyReference.cache
+D:\II Semestr\PP2\week1\week1\obj\Debug\Prostoe.csproj.CoreCompileInputs.cache
+D:\II Semestr\PP2\week1\week1\obj\Debug\week1.exe
+D:\II Semestr\PP2\week1\week1\obj\Debug\week1.pdb
