@@ -8,7 +8,7 @@ namespace week1
 {
     class Program
     {
-        static bool ispal(int a) // Функция на проверку является ли число простым
+        static bool Prime(int a) // Функция на проверку является ли число простым
         {
             for (int i = 2; i <= Math.Sqrt(a); i++) // ищем делитель 
             {
@@ -20,12 +20,11 @@ namespace week1
         }
         static void Main(string[] args)
         {
-            string[] a = Console.ReadLine().Split(' '); // читаем строку и разделяем прбела помещяя результат в массив
-            for (int i = 0; i < a.Length; i++)
+            foreach (string s in args)
             {
-                if (ispal(int.Parse(a[i]))) // конвертируем из int в string b и кидаем в фнкцию
-                    Console.WriteLine(a[i]); // выводим если простое 
+                if (Prime(int.Parse(s))) Console.WriteLine(s); // конвертируем из int в string b и кидаем в фнкцию выводим если простое
             }
+            
             Console.ReadKey();
         }
     }
