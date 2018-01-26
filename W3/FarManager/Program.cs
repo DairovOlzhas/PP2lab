@@ -28,9 +28,27 @@ namespace FarManager
         
         static void ShowDirectoryContent(DirectoryInfo dir, int pos)
         {
+            
 
             FileSystemInfo[] cur = dir.GetFileSystemInfos();
-            for (int i = 0; i < cur.Length; i++ )
+            int fl = 0;
+            int ll = cur.Length;
+            if(cur.Length > 20)            
+                ll = 20;
+                        
+            if (pos + 10 > ll)
+                ll = pos + 10;
+
+            if (pos > 10)
+                fl = pos - 9;
+                   
+            if(pos + 10 > cur.Length)
+            {
+                fl = cur.Length - 20;
+                ll = cur.Length;
+            }
+            
+            for (int i = fl; i < ll; i++ )
             {
 
                 if (cur[i].GetType() == typeof(DirectoryInfo))
