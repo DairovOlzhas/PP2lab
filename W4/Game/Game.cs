@@ -18,6 +18,13 @@ namespace Game
             snake = new Snake(1);
             wall = new Wall();
             food = new Food();
+        }
+
+        public void Draw()
+        {
+            snake.Draw();
+            wall.Draw();
+            food.Draw();
 
         }
     }

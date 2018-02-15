@@ -16,5 +16,9 @@ namespace Game
         {
             wall = new Point();
         }
+        public void Draw()
+        {
+
+        }
     }
 }

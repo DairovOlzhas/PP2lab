@@ -15,5 +15,9 @@ namespace Game
         {
 
         }
+        public void Draw()
+        {
+
+        }
     }
 }

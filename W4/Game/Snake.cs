@@ -32,11 +32,11 @@ namespace Game
             body[0].x += dx;
             body[0].y += dy;
 
-            if (body[0].x < 0) body[0].x = Console.WindowWidth;
-            if (body[0].x > Console.WindowWidth) body[0].x = 0;
+            if (body[0].x < 5) body[0].x = Console.WindowWidth - 5;
+            if (body[0].x > Console.WindowWidth - 5) body[0].x = 5;
 
-            if (body[0].y < 0) body[0].y = Console.WindowHeight;
-            if (body[0].y > Console.WindowHeight) body[0].y =0;
+            if (body[0].y < 1) body[0].y = Console.WindowHeight - 1;
+            if (body[0].y > Console.WindowHeight - 1) body[0].y = 1;
 
         }
         public void Draw()
